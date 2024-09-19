@@ -1,0 +1,8 @@
+Write a Rust Program that implements looping
+statement for loop.
+
+step 1: we will  define main () function 
+Step 2: then we have to type looping and println! statements: 
+         for i in 1..5 = {
+              println!("Count:{}");
+}
